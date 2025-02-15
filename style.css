@@ -271,6 +271,7 @@ main {
     flex-direction: column;
     gap: 2rem;
     width: 60%;
+    height: 100%;
   }
   .line-tog {
     background-color: #000;
